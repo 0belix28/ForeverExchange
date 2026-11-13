@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="FOREVEREXCHANGE_TOGGLE" header="FOREVEREXCHANGE" category="ADDONS">
+        ForeverExchange_Toggle()
+    </Binding>
+</Bindings>

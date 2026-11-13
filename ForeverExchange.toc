@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: |cff33ccffForeverExchange|r
+## Notes: Les prix de l'hôtel des ventes de WoW Forever, consultables partout : historique, graphiques, prix bas, tendances. /fx
+## Notes-frFR: Les prix de l'hôtel des ventes de WoW Forever, consultables partout : historique, graphiques, prix bas, tendances. /fx
+## Version: 0.5.0
+## IconTexture: Interface\AddOns\ForeverExchange\Logo
+## SavedVariables: ForeverExchangeDB
+## AddonCompartmentFunc: ForeverExchange_Toggle
+
+Core.lua
+Categories.lua
+Chart.lua
+UI.lua
+Options.lua
+AHTab.lua
